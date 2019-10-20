@@ -1,4 +1,4 @@
-# ALphabet Recognition
+# Alphabet Recognition
 
 
 
